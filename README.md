@@ -19,7 +19,7 @@ functions performed :
 
 Linux:
 
- Download the file use     :   $ wget https://github.com/kvishnudas05/calculator-using-shell-script/blob/main/calculator.sh\
+ Download the file use     :   $ wget https://github.com/kvishnudas05/calculator-using-shell-script/blob/main/calculator.sh <br />
  TO make it executable use :   $ chmod +x calculator.sh
  To run  it use            :   $ bash calculator.sh
  
@@ -27,7 +27,7 @@ Linux:
  Windows:
  
   Make it run in window first you need to install WSL (Windows Subsystem for Linux): $ wsl -- install
-  Download the file use     :   $ wget https://github.com/kvishnudas05/calculator-using-shell-script/blob/main/calculator.sh\
+  Download the file use     :   $ wget https://github.com/kvishnudas05/calculator-using-shell-script/blob/main/calculator.sh
   TO make it executable use :   $ chmod +x calculator.sh
   To run  it use            :   $ bash calculator.sh
   
