@@ -16,9 +16,9 @@ functions performed :
     
 
 # Usage in various platforms
-
-Linux:
-
+<ul>
+<li>Linux:</li>
+</ul>
 
  Download the file use     :   $ wget https://github.com/kvishnudas05/calculator-using-shell-script/blob/main/calculator.sh <br />
  
@@ -26,8 +26,9 @@ Linux:
  
  To run  it use            :   $ bash calculator.sh <br />
  
- 
- Windows:
+ <ul>
+ <li>Windows:</li>
+ </ul>
  
   Make it run in window first you need to install WSL (Windows Subsystem for Linux): $ wsl -- install <br />
   
